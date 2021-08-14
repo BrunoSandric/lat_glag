@@ -2,6 +2,10 @@
 
 Takes a sentence written in Latinica, and transleates it to Glagoljica. Sends both versions to print. 
 
+#Quick start
+
+- Setup/Init environment `activate <PATH_TO_ENV_ACTIVATE>
+- install dependencies if needed `pip3 -r requirements.txt`
 # Project description 
 Simple project descripion.
 
