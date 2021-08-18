@@ -18,7 +18,13 @@ log.basicConfig(
 i("............... STARTED .................")
 
 
+def Kekok():
+    print("Kekok")
+
+
 def main():
+    Kekok()
+
     return 0
 
 
