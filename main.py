@@ -21,8 +21,8 @@ def Kekok():
     print("Kekok")
 
 def main():
-    Kekok
-    
+    Kekok()
+
     return 0
 
 

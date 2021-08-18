@@ -5,12 +5,12 @@
 0.1 pogledati sestu lekciju
  https://missing.csail.mit.edu/2020/version-control/
 
-1.1 Stvoriti novi git brach, init_test:
+1.1 Stvoriti novi git brach, init_test: (done)
     unutar main.py novu funkciju koja ispisuje "KEKOK"
 
-1.2 napraviti inicijalni push na origin 
+1.2 napraviti inicijalni push na origin (done)
 
-1.3 zatraziti - pull request
+1.3 zatraziti - pull request (done?)
 
 ---
 
